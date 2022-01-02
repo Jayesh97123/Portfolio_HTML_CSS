@@ -1,0 +1,34 @@
+.Head{
+    display: inline;
+    font-size: 45px;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+.a1{
+    padding-left: 25px;
+}
+
+hr{
+    color: rgb(9, 9, 99);
+    height: 2.5px;
+}
+
+.marg{
+    margin-top: 30px;
+}
+p{
+    margin-bottom: 0px;
+}
+
+.bot{
+    margin-bottom: 20px;
+}
+
+#example1{
+    box-shadow: -5px 5px 10px 0px grey;
+}
+
+#example2{
+    box-shadow: 5px 5px 10px 0px grey;
+}

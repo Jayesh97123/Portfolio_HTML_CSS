@@ -26,9 +26,6 @@ p{
 }
 
 #example1{
-    box-shadow: -5px 5px 10px 0px grey;
+    box-shadow: 5px 5px 10px 5px grey;
 }
 
-#example2{
-    box-shadow: 5px 5px 10px 0px grey;
-}
